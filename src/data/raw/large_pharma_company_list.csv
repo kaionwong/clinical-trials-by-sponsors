@@ -1,0 +1,479 @@
+Rank,Pharma Company Name,Symbol,Marketcap,Price (USD),Country,Date Downloaded
+1,Johnson & Johnson,JNJ,4.58E+11,173.94,United States,5/19/2022
+2,Roche,ROG.SW,2.84E+11,325.74,Switzerland,5/19/2022
+3,Pfizer,PFE,2.84E+11,50.65,United States,5/19/2022
+4,Eli Lilly,LLY,2.72E+11,286.27,United States,5/19/2022
+5,AbbVie,ABBV,2.68E+11,151.72,United States,5/19/2022
+6,Novo Nordisk,NVO,2.39E+11,104.05,Denmark,5/19/2022
+7,Merck,MRK,2.33E+11,92.09,United States,5/19/2022
+8,Astrazeneca,AZN,2.04E+11,64.54,United Kingdom,5/19/2022
+9,Novartis,NVS,1.96E+11,88.65,Switzerland,5/19/2022
+10,Bristol-Myers Squibb,BMY,1.62E+11,75.96,United States,5/19/2022
+11,Sanofi,SNY,1.34E+11,53.06,France,5/19/2022
+12,Amgen,AMGN,1.31E+11,244.77,United States,5/19/2022
+13,CVS Health,CVS,1.22E+11,93.14,United States,5/19/2022
+14,GlaxoSmithKline,GSK,1.12E+11,43.56,United Kingdom,5/19/2022
+15,CSL,CSL.AX,93053959336,193.18,Australia,5/19/2022
+16,Gilead Sciences,GILD,79360196608,63.27,United States,5/19/2022
+17,Merck KGaA,MRK.DE,77025422793,177.16,Germany,5/19/2022
+18,Zoetis,ZTS,74655883264,158.63,United States,5/19/2022
+19,Regeneron Pharmaceuticals,REGN,72185298944,657.15,United States,5/19/2022
+20,Bayer,BAYZF,66586341376,67,Germany,5/19/2022
+21,Vertex Pharmaceuticals,VRTX,65332871168,255.45,United States,5/19/2022
+22,Moderna,MRNA,57030832128,143.38,United States,5/19/2022
+23,Takeda Pharmaceutical,TAK,45565853696,14.58,Japan,5/19/2022
+24,Chugai Pharmaceutical,4519.T,45552196329,27.7,Japan,5/19/2022
+25,Daiichi Sankyō,4568.T,44600227491,25.69,Japan,5/19/2022
+26,WuXi AppTec,2359.HK,41043026195,12.24,China,5/19/2022
+27,BioNTech,BNTX,40795598848,167.87,Germany,5/19/2022
+28,Lonza,LONN.SW,40758924019,548.7,Switzerland,5/19/2022
+29,Baxter,BAX,36556206080,72.6,United States,5/19/2022
+30,Walgreens Boots Alliance,WBA,35077820416,40.61,United States,5/19/2022
+31,WuXi Biologics,WXXWY,29472520192,13.48,China,5/19/2022
+32,Jiangsu Hengrui Medicine,600276.SS,28433726912,4.46,China,5/19/2022
+33,Biogen,BIIB,28278415360,193.09,United States,5/19/2022
+34,Astellas Pharma,4503.T,27973132083,15.24,Japan,5/19/2022
+35,Sun Pharmaceutical,SUNPHARMA.NS,27406927710,11.42,India,5/19/2022
+36,Royalty Pharma,RPRX,26818361344,39.78,United Kingdom,5/19/2022
+37,Seagen,SGEN,26254759936,142.63,United States,5/19/2022
+38,LabCorp,LH,22844059648,246.43,United States,5/19/2022
+39,West Pharmaceutical,WST,22386386944,302.21,United States,5/19/2022
+40,Horizon Therapeutics,HZNP,20537835520,89.34,Ireland,5/19/2022
+41,Genmab,GMAB,20002885632,30.43,Denmark,5/19/2022
+42,Otsuka Holdings,4578.T,18980121706,34.99,Japan,5/19/2022
+43,Catalent,CTLT,17872912384,99.73,United States,5/19/2022
+44,Argenx,ARGX,17594542080,319.97,Netherlands,5/19/2022
+45,ICON plc,ICLR,17417838592,214.26,Ireland,5/19/2022
+46,Shionogi,4507.T,15829742623,52.51,Japan,5/19/2022
+47,Alnylam Pharmaceuticals,ALNY,15628498944,129.36,United States,5/19/2022
+48,Celltrion,068270.KS,15395891476,113.25,South Korea,5/19/2022
+49,BeiGene,BGNE,14554143744,131.67,China,5/19/2022
+50,Bio-Techne,TECH,14376723456,366.44,United States,5/19/2022
+51,Viatris,VTRS,14172137472,11.69,United States,5/19/2022
+52,Ono Pharmaceutical,4528.T,13256905995,27.15,Japan,5/19/2022
+53,Vifor Pharma,VIFN.SW,12673430716,195.3,Switzerland,5/19/2022
+54,Eisai,4523.T,12253197940,42.73,Japan,5/19/2022
+55,kyowa Kirin,4151.T,11425192458,21.26,Japan,5/19/2022
+56,Elanco,ELAN,11017991168,23.24,United States,5/19/2022
+57,Hansoh Pharma,3692.HK,10337902104,1.75,China,5/19/2022
+58,Sino Biopharmaceutical,1177.HK,10020811013,0.53,China,5/19/2022
+59,Biohaven Pharmaceutical,BHVN,10020643840,141.05,United States,5/19/2022
+60,Cipla,CIPLA.NS,9780528977,12.11,India,5/19/2022
+61,Jazz Pharmaceuticals,JAZZ,9318514688,149.53,Ireland,5/19/2022
+62,Teva Pharmaceutical Industries,TEVA,9305871360,8.31,Israel,5/19/2022
+63,Organon,OGN,9275504640,36.57,United States,5/19/2022
+64,Recordati,REC.MI,9014633526,43.85,Italy,5/19/2022
+65,Dr. Reddy's,RDY,8612267008,51.35,India,5/19/2022
+66,Maravai LifeSciences,MRVI,8322300928,32.61,United States,5/19/2022
+67,Ipsen,IPN.PA,8209380199,99.46,France,5/19/2022
+68,Neurocrine Biosciences,NBIX,8159383552,85.37,United States,5/19/2022
+69,Sinopharm,1099.HK,7705803993,2.47,China,5/19/2022
+70,Gland Pharma,GLAND.NS,6586947602,40.02,India,5/19/2022
+71,Legend Biotech,LEGN,6403546624,41.52,United States,5/19/2022
+72,Swedish Orphan Biovitrum,SOBI.ST,6337076544,21.35,Sweden,5/19/2022
+73,Yuhan,000100.KS,6107084099,46.01,South Korea,5/19/2022
+74,Sarepta Therapeutics,SRPT,6056819200,69.22,United States,5/19/2022
+75,Torrent Pharmaceuticals,TORNTPHARM.NS,5664585241,33.47,India,5/19/2022
+76,KOBAYASHI Pharmaceutical,4967.T,5597967315,72.44,Japan,5/19/2022
+77,Exelixis,EXEL,5593722880,17.44,United States,5/19/2022
+78,Orion Corporation,ORNAV.HE,5557009795,38.88,Finland,5/19/2022
+79,Ionis Pharmaceuticals,IONS,5548555776,39.13,United States,5/19/2022
+80,Intra-Cellular Therapies,ITCI,5445342208,57.73,United States,5/19/2022
+81,Ascendis Pharma,ASND,5085382144,91.13,Denmark,5/19/2022
+82,Perrigo,PRGO,5056464384,37.58,Ireland,5/19/2022
+83,Biocon,BIOCON.NS,5000536707,4.16,India,5/19/2022
+84,Abbott India,ABBOTINDIA.NS,4974496467,234.1,India,5/19/2022
+85,Alkermes,ALKS,4817828352,29.48,Ireland,5/19/2022
+86,Lundbeck,LDB.F,4729015576,23.52,Denmark,5/19/2022
+87,Evotec,EVO,4723014656,13.07,Germany,5/19/2022
+88,Hualan Biological Engineering,002007.SZ,4654572444,2.55,China,5/19/2022
+89,Cadila Healthcare,CADILAHC.NS,4603836898,4.5,India,5/19/2022
+90,Dechra Pharmaceuticals,DPH.L,4588537268,4233.44,United Kingdom,5/19/2022
+91,Richter Gedeon,RGEDF,4577239040,24.63,Hungary,5/19/2022
+92,Novavax,NVAX,4565404672,58.43,United States,5/19/2022
+93,Alkem Laboratories,ALKEM.NS,4503797410,37.67,India,5/19/2022
+94,Ginkgo Bioworks,DNA,4477132800,2.52,United States,5/19/2022
+95,CRISPR Therapeutics,CRSP,4375552000,56.49,Switzerland,5/19/2022
+96,Nippon Shinyaku,4516.T,4116602295,61.12,Japan,5/19/2022
+97,Laurus Labs,LAURUSLABS.NS,3886800883,7.23,India,5/19/2022
+98,Lupin Limited,LUPIN.NS,3725900790,8.2,India,5/19/2022
+99,Bausch Health,BHC,3693209344,10.15,Canada,5/19/2022
+100,Zai Lab,ZLAB,3666515200,35.72,China,5/19/2022
+101,Curevac,CVAC,3632018432,19.41,Germany,5/19/2022
+102,Cerevel Therapeutics,CERE,3624183040,24.44,United States,5/19/2022
+103,Intellia Therapeutics,NTLA,3618989568,47.71,United States,5/19/2022
+104,Sumitomo Dainippon Pharma,4506.T,3370998190,8.48,Japan,5/19/2022
+105,Cytokinetics,CYTK,3322448896,38.79,United States,5/19/2022
+106,Ipca Laboratories,IPCALAB.NS,3167138315,12.46,India,5/19/2022
+107,Santen Pharmaceutical,4536.T,3145312588,7.86,Japan,5/19/2022
+108,BB Biotech,BION.SW,3125963016,56.53,Switzerland,5/19/2022
+109,Karuna Therapeutics,KRTX,3109892608,104.07,United States,5/19/2022
+110,Taisho Pharmaceutical,4581.T,2909525460,36.45,Japan,5/19/2022
+111,Roivant Sciences,ROIV,2526062848,3.65,United Kingdom,5/19/2022
+112,Hanmi Pharmaceutical,008930.KS,2483920045,36.92,South Korea,5/19/2022
+113,Tilray,TLRY,2418861056,4.86,Canada,5/19/2022
+114,Beam Therapeutics,BEAM,2384855040,33.94,United States,5/19/2022
+115,AbCellera,ABCL,2361648896,8.3,Canada,5/19/2022
+116,Arvinas,ARVN,2343025664,44.07,United States,5/19/2022
+117,Harmony Biosciences,HRMY,2310556160,39.13,United States,5/19/2022
+118,EQRx,EQRX,2268098048,4.65,United States,5/19/2022
+119,Fate Therapeutics,FATE,2164491776,22.4,United States,5/19/2022
+120,Sanofi India Limited,SANOFI.NS,1952970575,84.8,India,5/19/2022
+121,Relay Therapeutics,RLAY,1945799936,17.25,United States,5/19/2022
+122,Alembic Pharmaceuticals,APLLTD.NS,1861005691,9.47,India,5/19/2022
+123,Glaukos,GKOS,1847430400,39.03,United States,5/19/2022
+124,Bavarian Nordic,BAVA.CO,1830376456,25.97,Denmark,5/19/2022
+125,Ironwood Pharmaceuticals,IRWD,1762983424,11.46,United States,5/19/2022
+126,SpringWorks Therapeutics,SWTX,1750236672,35.42,United States,5/19/2022
+127,BioCryst Pharmaceuticals,BCRX,1675823488,9.03,United States,5/19/2022
+128,Natco Pharma,NATCOPHARM.NS,1651036743,9.03,India,5/19/2022
+129,Amphastar Pharmaceuticals,AMPH,1645564288,33.7,United States,5/19/2022
+130,PeptiDream,4587.T,1639685283,12.63,Japan,5/19/2022
+131,Travere Therapeutics,TVTX,1601742976,24.6,United States,5/19/2022
+132,Emergent BioSolutions,EBS,1592219648,31.69,United States,5/19/2022
+133,HUTCHMED,HCM,1589006080,9.19,Hong Kong,5/19/2022
+134,Xenon Pharmaceuticals,XENE,1514574592,28.52,Canada,5/19/2022
+135,ImmunityBio,IBRX,1488359168,3.74,United States,5/19/2022
+136,Krystal Biotech,KRYS,1459406208,56.93,United States,5/19/2022
+137,Supernus Pharmaceuticals,SUPN,1448031872,27.11,United States,5/19/2022
+138,Glenmark Pharmaceuticals,GLENMARK.NS,1430661135,5.07,India,5/19/2022
+139,Dynavax Technologies,DVAX,1412168192,11.18,United States,5/19/2022
+140,Olink Holding,OLK,1362481024,11.44,Sweden,5/19/2022
+141,Sierra Oncology,SRRA,1337207168,54.73,Canada,5/19/2022
+142,Valneva SE,VALN,1336564096,24.83,France,5/19/2022
+143,Vericel,VCEL,1309462016,27.79,United States,5/19/2022
+144,Immunocore,IMCR,1275210752,29.05,United Kingdom,5/19/2022
+145,Prothena,PRTA,1226322432,26.2,Ireland,5/19/2022
+146,Axsome Therapeutics,AXSM,1226167552,31.51,United States,5/19/2022
+147,Exscientia,EXAI,1196781312,9.9,United Kingdom,5/19/2022
+148,Shinpoong Pharm,019170.KS,1173728183,22.3,South Korea,5/19/2022
+149,Veru,VERU,1144253056,14.29,United States,5/19/2022
+150,Prometheus Biosciences,RXDX,1137523072,29.02,United States,5/19/2022
+151,Innoviva,INVA,1108904704,15.91,United States,5/19/2022
+152,Zentalis Pharmaceuticals,ZNTL,1106991488,23.74,United States,5/19/2022
+153,Adaptive Biotechnologies,ADPT,1106533888,7.78,United States,5/19/2022
+154,BridgeBio Pharma,BBIO,1091458688,7.39,United States,5/19/2022
+155,Allogene Therapeutics,ALLO,1084179968,7.55,United States,5/19/2022
+156,Amneal Pharmaceuticals,AMRX,1051146304,3.47,United States,5/19/2022
+157,Celularity,CELU,1049780544,7.59,United States,5/19/2022
+158,Recursion Pharmaceuticals,RXRX,1032262080,5.52,United States,5/19/2022
+159,Arcutis Biotherapeutics,ARQT,1020647296,19.85,United States,5/19/2022
+160,Reata Pharmaceuticals,RETA,1009295872,27.68,United States,5/19/2022
+161,I-Mab Biopharma,IMAB,1008282368,12.2,China,5/19/2022
+162,Lyell Immunopharma,LYEL,955003840,3.88,United States,5/19/2022
+163,Intersect ENT,XENT,954898880,28.24,United States,5/19/2022
+164,Antares Pharma,ATRS,953354176,5.58,United States,5/19/2022
+165,Cosmo Pharmaceuticals,C43.F,922035411,53.88,Ireland,5/19/2022
+166,Instil Bio,TIL,921866240,7.13,United States,5/19/2022
+167,Enanta Pharmaceuticals,ENTA,911565888,44.01,United States,5/19/2022
+168,BELLUS Health,BLU,910085504,8.49,Canada,5/19/2022
+169,Nuvation Bio,NUVB,900872768,4.13,United States,5/19/2022
+170,MannKind Corp,MNKD,886503104,3.51,United States,5/19/2022
+171,Keros Therapeutics,KROS,868380992,36.13,United States,5/19/2022
+172,Sana Biotechnology,SANA,859196096,4.53,United States,5/19/2022
+173,Morphic Therapeutic,MORF,854555712,22.33,United States,5/19/2022
+174,REGENXBIO,RGNX,847581120,19.65,United States,5/19/2022
+175,Jubilant Pharmova,JUBLPHARMA.NS,822894175,5.16,India,5/19/2022
+176,Kura Oncology,KURA,808295872,12.13,United States,5/19/2022
+177,ImmunoGen,IMGN,778492096,3.53,United States,5/19/2022
+178,Syndax Pharmaceuticals,SNDX,777130368,13.82,United States,5/19/2022
+179,Avid Bioservices,CDMO,771187520,12.49,United States,5/19/2022
+180,Mirum Pharmaceuticals,MIRM,770734976,24.21,United States,5/19/2022
+181,Kymera Therapeutics,KYMR,770173376,14.89,United States,5/19/2022
+182,Chinook Therapeutics,KDNY,764205632,13.85,United States,5/19/2022
+183,SPARC,SPARC.NS,759022768,2.79,India,5/19/2022
+184,Editas Medicine,EDIT,750933632,10.94,United States,5/19/2022
+185,Avidity Biosciences,RNA,730756352,12.65,United States,5/19/2022
+186,CinCor Pharma,CINC,728932352,19.33,United States,5/19/2022
+187,Nektar Therapeutics,NKTR,728331328,3.91,United States,5/19/2022
+188,Anavex Life Sciences,AVXL,717581440,9.27,United States,5/19/2022
+189,IGM Biosciences,IGMS,713171072,16.77,United States,5/19/2022
+190,Merus,MRUS,706382592,16.22,Netherlands,5/19/2022
+191,Codexis,CDXS,683733952,10.47,United States,5/19/2022
+192,Erasca,ERAS,675093312,5.54,United States,5/19/2022
+193,Theravance Biopharma,TBPH,673621312,8.85,Cayman Islands,5/19/2022
+194,DICE Therapeutics,DICE,670541952,17.54,United States,5/19/2022
+195,Verve Therapeutics,VERV,658875328,13.54,United States,5/19/2022
+196,Rocket Pharmaceuticals,RCKT,657720576,9.99,United States,5/19/2022
+197,PureTech Health,PRTC,655992448,22.8,United States,5/19/2022
+198,PMV Pharmaceuticals,PMVP,639404608,14.03,United States,5/19/2022
+199,Atai Life Sciences,ATAI,638109952,3.97,Germany,5/19/2022
+200,Coherus BioSciences,CHRS,612415936,7.91,United States,5/19/2022
+201,Hikal,HIKAL.NS,610279556,4.95,India,5/19/2022
+202,Atea Pharmaceuticals,AVIR,603617600,7.25,United States,5/19/2022
+203,iTeos Therapeutics,ITOS,602414912,16.95,United States,5/19/2022
+204,Zealand Pharma,ZEAL,601714240,13.79,Denmark,5/19/2022
+205,Gossamer Bio,GOSS,589171584,7.64,United States,5/19/2022
+206,Sangamo Therapeutics,SGMO,586748032,4,United States,5/19/2022
+207,Eagle Pharmaceuticals,EGRX,579945024,45.67,United States,5/19/2022
+208,AnaptysBio,ANAB,573587136,20.35,United States,5/19/2022
+209,Vaxxinity,VAXX,573004992,4.09,United States,5/19/2022
+210,Amarin Corporation,AMRN,571691520,1.44,Ireland,5/19/2022
+211,Kiniksa Pharmaceuticals,KNSA,566675200,8.18,Bermuda,5/19/2022
+212,Vanda Pharmaceuticals,VNDA,558683136,9.89,United States,5/19/2022
+213,Pharvaris,PHVS,553645120,16.7,Netherlands,5/19/2022
+214,Tricida,TCDA,551477760,9.95,United States,5/19/2022
+215,Collegium Pharmaceutical,COLL,542893312,15.98,United States,5/19/2022
+216,CTI BioPharma,CTIC,530669280,4.87,United States,5/19/2022
+217,FDC India,FDC.NS,529381468,3.19,India,5/19/2022
+218,Amylyx Pharmaceuticals,AMLX,527969504,9.02,United States,5/19/2022
+219,Aura Biosciences,AURA,516731584,17.66,United States,5/19/2022
+220,ANI Pharmaceuticals,ANIP,516024256,29.92,United States,5/19/2022
+221,Amryt Pharma,AMYT,507988800,7.92,United Kingdom,5/19/2022
+222,Affimed,AFMD,507684640,3.4,Germany,5/19/2022
+223,Geron,GERN,498230080,1.32,United States,5/19/2022
+224,Aarti Drugs,AARTIDRUGS.NS,494854360,5.34,India,5/19/2022
+225,Inhibrx,INBX,489137344,12.53,United States,5/19/2022
+226,Ocugen,OCGN,483082880,2.24,United States,5/19/2022
+227,Vera Therapeutics,VERA,479746432,16.46,United States,5/19/2022
+228,Nautilus Biotechnology,NAUT,479178688,3.85,United States,5/19/2022
+229,MaxCyte,MXCT,475485664,4.57,United States,5/19/2022
+230,Mesoblast,MESO,473283136,3.58,Australia,5/19/2022
+231,Inotiv,NOTV,469479680,18.4,United States,5/19/2022
+232,Arcturus Therapeutics,ARCT,469465632,17.77,United States,5/19/2022
+233,Praxis Precision Medicines,PRAX,466951072,10.26,United States,5/19/2022
+234,Imago BioSciences,IMGO,460831008,13.66,United States,5/19/2022
+235,Centessa Pharmaceuticals,CNTA,459860480,4.89,United Kingdom,5/19/2022
+236,Cara Therapeutics,CARA,457132928,8.53,United States,5/19/2022
+237,Inovio Pharmaceuticals,INO,451210752,1.97,United States,5/19/2022
+238,Karyopharm Therapeutics,KPTI,448713952,5.65,United States,5/19/2022
+239,Janux Therapeutics,JANX,446683456,10.73,United States,5/19/2022
+240,Vaxart,VXRT,445089920,3.52,United States,5/19/2022
+241,Indoco Remedies,INDOCO.NS,432505400,4.68,India,5/19/2022
+242,Y-mAbs Therapeutics,YMAB,431935808,9.88,United States,5/19/2022
+243,Day One Biopharmaceuticals,DAWN,425953888,6.88,United States,5/19/2022
+244,Adicet Bio,ACET,417645920,10.44,United States,5/19/2022
+245,Agenus,AGEN,417326144,1.54,United States,5/19/2022
+246,Immatics,IMTX,415946144,6.61,Germany,5/19/2022
+247,CSB Bank,CSBBANK.NS,413644346,2.38,India,5/19/2022
+248,IDEAYA Biosciences,IDYA,406105344,10.51,United States,5/19/2022
+249,ADMA Biologics,ADMA,402521600,2.05,United States,5/19/2022
+250,RAPT Therapeutics,RAPT,393377216,13.27,United States,5/19/2022
+251,Esperion Therapeutics,ESPR,389380768,6.18,United States,5/19/2022
+252,Protagonist Therapeutics,PTGX,378058688,7.77,United States,5/19/2022
+253,HilleVax,HLVX,377393088,11.29,United States,5/19/2022
+254,Liquidia Technologies,LQDA,371911232,5.78,United States,5/19/2022
+255,Heron Therapeutics,HRTX,365853600,3.57,United States,5/19/2022
+256,Nuvalent,NUVL,364770720,7.55,United States,5/19/2022
+257,Rigel Pharmaceuticals,RIGL,364750208,2.12,United States,5/19/2022
+258,MeiraGTx,MGTX,361709568,8.09,United States,5/19/2022
+259,Sequent Scientific,SEQUENT.NS,359452504,1.44,India,5/19/2022
+260,Arbutus Biopharma,ABUS,348023520,2.34,United States,5/19/2022
+261,Outlook Therapeutics,OTLK,343433376,1.52,United States,5/19/2022
+262,Strides Pharma,STAR.NS,337450930,3.76,India,5/19/2022
+263,Mersana Therapeutics,MRSN,334619968,3.45,United States,5/19/2022
+264,Berkeley Lights,BLI,333028608,4.91,United States,5/19/2022
+265,Kezar Life Sciences,KZR,331681632,5.49,United States,5/19/2022
+266,Mind Medicine,MNMD,327402368,0.71,United States,5/19/2022
+267,EyePoint Pharmaceuticals,EYPT,323106976,9.49,United States,5/19/2022
+268,C4 Therapeutics,CCCC,322549504,6.61,United States,5/19/2022
+269,Enochian Biosciences,ENOB,319288512,6.03,United States,5/19/2022
+270,Akero Therapeutics,AKRO,314505632,8.98,United States,5/19/2022
+271,Rite Aid,RAD,314403296,5.65,United States,5/19/2022
+272,Athira Pharma,ATHA,310496992,8.25,United States,5/19/2022
+273,Belite Bio,BLTE,300227424,12.46,United States,5/19/2022
+274,Xeris Pharmaceuticals,XERS,298168224,2.2,United States,5/19/2022
+275,Talaris Therapeutics,TALS,294380896,7.1,United States,5/19/2022
+276,Generation Bio,GBIO,293432320,5.14,United States,5/19/2022
+277,Arcellx,ACLX,273027616,7.64,United States,5/19/2022
+278,Adaptimmune Therapeutics,ADAP,270314528,1.67,United Kingdom,5/19/2022
+279,LianBio,LIAN,269604736,2.49,United States,5/19/2022
+280,Ocular Therapeutix,OCUL,260982640,3.4,United States,5/19/2022
+281,AC Immune,ACIU,260454464,3.12,Switzerland,5/19/2022
+282,Precigen,PGEN,259616240,1.25,United States,5/19/2022
+283,Hester Biosciences,HESTERBIO.NS,256100384,30.08,India,5/19/2022
+284,Marksans Pharma,MARKSANS.NS,251586279,0.61,India,5/19/2022
+285,VBI Vaccines,VBIV,250535104,0.97,United States,5/19/2022
+286,Immutep,IMMP,250306368,2.72,Australia,5/19/2022
+287,Lexicon Pharmaceuticals,LXRX,249821968,1.67,United States,5/19/2022
+288,Innate Pharma,IPH.PA,249573716,3.12,France,5/19/2022
+289,Voyager Therapeutics,VYGR,245349920,6.38,United States,5/19/2022
+290,bluebird bio,BLUE,239369872,3.35,United States,5/19/2022
+291,Avadel Pharmaceuticals,AVDL,239104720,4.05,Ireland,5/19/2022
+292,Jounce Therapeutics,JNCE,233567840,4.52,United States,5/19/2022
+293,VistaGen Therapeutics,VTGN,229246080,1.11,United States,5/19/2022
+294,Verastem Oncology,VSTM,229224016,1.23,United States,5/19/2022
+295,Molecular Partners,MOLN,228865952,7.08,Switzerland,5/19/2022
+296,Nuvectis Pharma,NVCT,227775792,17.91,United States,5/19/2022
+297,G1 Therapeutics,GTHX,225057984,5.27,United States,5/19/2022
+298,AN2 Therapeutics,ANTX,219250512,11.3,United States,5/19/2022
+299,Zomedica Pharmaceuticals,ZOM,217733792,0.22,United States,5/19/2022
+300,Sutro Biopharma,STRO,212611488,4.53,United States,5/19/2022
+301,Lineage Cell Therapeutics,LCTX,210461488,1.24,United States,5/19/2022
+302,Altimmune,ALT,208317520,4.82,United States,5/19/2022
+303,Marinus Pharmaceuticals,MRNS,199097200,5.36,United States,5/19/2022
+304,Athersys,ATHX,195177568,0.76,United States,5/19/2022
+305,Entrada Therapeutics,TRDA,191957472,6.12,United States,5/19/2022
+306,Scholar Rock Holding,SRRK,180038672,5.1,United States,5/19/2022
+307,Cellectis,CLLS,178778848,3.93,France,5/19/2022
+308,Viking Therapeutics,VKTX,175638288,2.27,United States,5/19/2022
+309,XBiotech,XBIT,174112784,5.72,United States,5/19/2022
+310,Longeveron,LGVN,170850000,8.16,United States,5/19/2022
+311,Neuland Laboratories,NEULANDLAB.NS,169241286,13.19,India,5/19/2022
+312,Immunic,IMUX,167361392,5.48,United States,5/19/2022
+313,Concert Pharmaceuticals,CNCE,163481856,4.5,United States,5/19/2022
+314,Milestone Pharmaceuticals,MIST,160998112,5.38,Canada,5/19/2022
+315,CymaBay Therapeutics,CBAY,160888016,1.9,United States,5/19/2022
+316,Savara Pharmaceuticals,SVRA,158516992,1.39,United States,5/19/2022
+317,Humanigen,HGEN,158219472,2.24,United States,5/19/2022
+318,IO Biotech,IOBT,154161856,5.35,Denmark,5/19/2022
+319,Aldeyra Therapeutics,ALDX,152749920,2.62,United States,5/19/2022
+320,Ovid Therapeutics,OVID,145059632,2.06,United States,5/19/2022
+321,PDS Biotechnology,PDSB,144815088,5.09,United States,5/19/2022
+322,Actinium Pharmaceuticals,ATNM,144609760,6.08,United States,5/19/2022
+323,Matinas BioPharma,MTNB,144236896,0.67,United States,5/19/2022
+324,AVEO Oncology,AVEO,143427232,4.16,United States,5/19/2022
+325,Assertio Therapeutics,ASRT,142206864,3.13,United States,5/19/2022
+326,Cormedix,CRMD,136540320,3.49,United States,5/19/2022
+327,Endo International,ENDP,135848864,0.58,Ireland,5/19/2022
+328,Cel-Sci,CVM,135613520,3.13,United States,5/19/2022
+329,ORIC Pharmaceuticals,ORIC,135015440,3.42,United States,5/19/2022
+330,ContraFect,CFRX,133731184,3.4,United States,5/19/2022
+331,Pieris Pharmaceuticals,PIRS,133382328,1.8,United States,5/19/2022
+332,Graphite Bio,GRPH,132751528,2.29,United States,5/19/2022
+333,Citius Pharmaceuticals,CTXR,130406416,0.89,United States,5/19/2022
+334,Atossa Therapeutics,ATOS,121179168,0.96,United States,5/19/2022
+335,MediciNova,MNOV,117710888,2.4,United States,5/19/2022
+336,Selecta Biosciences,SELB,117560880,0.77,United States,5/19/2022
+337,Surface Oncology,SURF,113014368,1.97,United States,5/19/2022
+338,Nymox Pharmaceutical,NYMX,112850000,1.25,Bahamas,5/19/2022
+339,Oyster Point Pharma,OYST,112011056,4.2,United States,5/19/2022
+340,CytomX Therapeutics,CTMX,110523296,1.69,United States,5/19/2022
+341,BrainStorm Cell Therapeutics,BCLI,108728880,2.98,United States,5/19/2022
+342,Precision BioSciences,DTIL,107565176,1.73,United States,5/19/2022
+343,Leap Therapeutics,LPTX,106865384,1.21,United States,5/19/2022
+344,RPG Life Sciences,RPGLIFE.NS,106772461,6.46,India,5/19/2022
+345,Alaunos Therapeutics,TCRT,104002000,0.48,United States,5/19/2022
+346,Paratek Pharmaceuticals,PRTK,103509152,1.9,United States,5/19/2022
+347,Anixa Biosciences,ANIX,101010200,3.35,United States,5/19/2022
+348,Summit Therapeutics,SMMT,100084848,1.02,United Kingdom,5/19/2022
+349,NRx Pharmaceuticals,NRXP,99961952,1.5,United States,5/19/2022
+350,Sesen Bio,SESN,99732000,0.5,United States,5/19/2022
+351,Cortexyme,CRTX,99497640,3.3,United States,5/19/2022
+352,Fortress Biotech,FBIO,98766256,0.92,United States,5/19/2022
+353,Cytosorbents,CTSO,98450344,2.26,United States,5/19/2022
+354,Ardelyx,ARDX,97604336,0.68,United States,5/19/2022
+355,Rubius Therapeutics,RUBY,97430160,1.08,United States,5/19/2022
+356,Aptose Biosciences,APTO,96840656,1.05,Canada,5/19/2022
+357,Bliss GVS Pharma,BLISSGVS.NS,95730353,0.92,India,5/19/2022
+358,Dare Bioscience,DARE,91488200,1.08,United States,5/19/2022
+359,Clearside Biomedical,CLSD,87218080,1.45,United States,5/19/2022
+360,IMV,IMV,87205672,1.06,Canada,5/19/2022
+361,Harpoon Therapeutics,HARP,87011184,2.63,United States,5/19/2022
+362,Epizyme,EPZM,86592352,0.53,United States,5/19/2022
+363,Synlogic,SYBX,85003352,1.21,United States,5/19/2022
+364,Adverum Biotechnologies,ADVM,84379552,0.85,United States,5/19/2022
+365,aTyr Pharma,LIFE,84168600,3,United States,5/19/2022
+366,Capricor Therapeutics,CAPR,82702280,3.4,United States,5/19/2022
+367,Lipocine,LPCN,78852696,0.89,United States,5/19/2022
+368,Galectin Therapeutics,GALT,78392824,1.32,United States,5/19/2022
+369,Sellas Life Sciences,SLS,73928160,3.6,United States,5/19/2022
+370,Nectar Lifesciences,NECLIFE.NS,73265188,0.33,India,5/19/2022
+371,Curis,CRIS,72784776,0.79,United States,5/19/2022
+372,Vigil Neuroscience,VIGL,72363008,2.56,United States,5/19/2022
+373,Genprex,GNPX,72326584,1.51,United States,5/19/2022
+374,Xilio Therapeutics,XLO,71426160,2.6,United States,5/19/2022
+375,Okyo Pharma,OKYO,70411848,3.33,United Kingdom,5/19/2022
+376,Merrimack Pharmaceuticals,MACK,70403552,5.25,United States,5/19/2022
+377,Achieve Life Sciences,ACHV,68741208,7.1,Canada,5/19/2022
+378,SCYNEXIS,SCYX,68416944,2.1,United States,5/19/2022
+379,InflaRx,IFRX,66305700,1.5,Germany,5/19/2022
+380,Lumos Pharma,LUMO,65698456,7.85,United States,5/19/2022
+381,Akebia Therapeutics,AKBA,63502412,0.35,United States,5/19/2022
+382,Oncolytics Biotech,ONCY,62821496,1.09,Canada,5/19/2022
+383,Journey Medical,DERM,62230812,3.57,United States,5/19/2022
+384,Seelos Therapeutics,SEEL,62031408,0.58,United States,5/19/2022
+385,Orchard Therapeutics,ORTX,61693452,0.49,United Kingdom,5/19/2022
+386,Solid Biosciences,SLDB,60625168,0.54,United States,5/19/2022
+387,Bionomics,BNOX,58036760,7.56,Australia,5/19/2022
+388,Unity Biotechnology,UBX,56912168,0.82,United States,5/19/2022
+389,Hepion Pharmaceuticals,HEPA,56791052,0.75,United States,5/19/2022
+390,Redhill Biopharma,RDHL,55923104,1.05,Israel,5/19/2022
+391,Athenex,ATNX,55255204,0.49,United States,5/19/2022
+392,BeyondSpring,BYSI,51386152,1.32,United States,5/19/2022
+393,Protalix BioTherapeutics,PLX,51299000,1.09,Israel,5/19/2022
+394,iBio,IBIO,50832676,0.23,United States,5/19/2022
+395,Corvus Pharmaceuticals,CRVS,49812248,1.07,United States,5/19/2022
+396,Kala Pharmaceuticals,KALA,49472812,0.68,United States,5/19/2022
+397,cbdMD,YCBD,48073396,0.81,United States,5/19/2022
+398,Biofrontera,BFRI,47893440,2.8,United States,5/19/2022
+399,Iterum Therapeutics,ITRM,47671776,0.26,Ireland,5/19/2022
+400,Spero Therapeutics,SPRO,47262960,1.44,United States,5/19/2022
+401,Aquestive Therapeutics,AQST,46942560,1.12,United States,5/19/2022
+402,Tyme Technologies,TYME,46874744,0.27,United States,5/19/2022
+403,180 Life Sciences,ATNF,46358592,1.36,United States,5/19/2022
+404,ProQR,PRQR,45828736,0.64,Netherlands,5/19/2022
+405,AIM ImmunoTech,AIM,45165872,0.94,United States,5/19/2022
+406,Frequency Therapeutics,FREQ,44420028,1.27,United States,5/19/2022
+407,Syros Pharmaceuticals,SYRS,43973300,0.7,United States,5/19/2022
+408,Tiziana Life Sciences,TLSA,43787788,0.9,United Kingdom,5/19/2022
+409,Ampio Pharmaceuticals,AMPE,43688064,0.19,United States,5/19/2022
+410,Corbus Pharmaceuticals,CRBP,43551512,0.35,United States,5/19/2022
+411,Zynerba Pharmaceuticals,ZYNE,43111128,0.99,United States,5/19/2022
+412,Brooklyn ImmunoTherapeutics,BTX,42830392,0.75,United States,5/19/2022
+413,AcelRx Pharmaceuticals,ACRX,42545368,0.29,United States,5/19/2022
+414,Aptinyx,APTX,42457740,0.63,United States,5/19/2022
+415,Acasti Pharma,ACST,42073788,0.95,Canada,5/19/2022
+416,Tonix Pharmaceuticals,TNXP,41415400,2.21,United States,5/19/2022
+417,PhaseBio Pharmaceuticals,PHAS,40992616,0.84,United States,5/19/2022
+418,Trevena,TRVN,40651712,0.25,United States,5/19/2022
+419,Aileron Therapeutics,ALRN,39944220,0.44,United States,5/19/2022
+420,Avalon GloboCare,AVCO,39496200,0.44,United States,5/19/2022
+421,Aptorum Group,APM,38554056,1.08,Hong Kong,5/19/2022
+422,Rafael Holdings,RFL,37859044,1.81,United States,5/19/2022
+423,X4 Pharmaceuticals,XFOR,37604792,1.22,United States,5/19/2022
+424,Cocrystal Pharma,COCP,37428096,0.38,United States,5/19/2022
+425,Orphazyme,ORPH,37272452,0.87,Denmark,5/19/2022
+426,AVROBIO,AVRO,33690004,0.77,United States,5/19/2022
+427,Adial Pharmaceuticals,ADIL,32590930,1.37,United States,5/19/2022
+428,Oragenics,OGEN,32590600,0.28,United States,5/19/2022
+429,GlycoMimetics,GLYC,32242284,0.62,United States,5/19/2022
+430,Tempest Therapeutics,TPST,32104528,3.11,United States,5/19/2022
+431,vTv Therapeutics,VTVT,31797830,0.48,United States,5/19/2022
+432,NuCana,NCNA,31308002,0.6,United Kingdom,5/19/2022
+433,Regulus Therapeutics,RGLS,30670606,0.21,United States,5/19/2022
+434,Jaguar Health,JAGX,30538850,0.39,United States,5/19/2022
+435,AgeX Therapeutics,AGE,27997860,0.73,United States,5/19/2022
+436,electroCore,ECOR,27840642,0.39,United States,5/19/2022
+437,Can Fite Biopharma,CANF,25517610,0.9,Israel,5/19/2022
+438,Cyclerion Therapeutics,CYCN,25195728,0.58,United States,5/19/2022
+439,Abeona Therapeutics,ABEO,24908024,0.17,United States,5/19/2022
+440,Context Therapeutics,CNTX,24587794,1.54,United States,5/19/2022
+441,Organovo,ONVO,24288484,2.79,United States,5/19/2022
+442,Onconova Therapeutics,ONTX,23371728,1.12,United States,5/19/2022
+443,VYNE Therapeutics,VYNE,23134446,0.4,United States,5/19/2022
+444,Lannett Company,LCI,22660598,0.53,United States,5/19/2022
+445,NanoViricides,NNVC,21337900,1.85,United States,5/19/2022
+446,Soligenix,SNGX,21038918,0.49,United States,5/19/2022
+447,Calithera Biosciences,CALA,20225358,0.21,United States,5/19/2022
+448,TherapeuticsMD,TXMD,19677632,2.27,United States,5/19/2022
+449,Aytu BioScience,AYTU,18012186,0.54,United States,5/19/2022
+450,Pulmatrix,PULM,17511670,5.17,United States,5/19/2022
+451,Petros Pharmaceuticals,PTPI,17019370,0.82,United States,5/19/2022
+452,Minerva Neurosciences,NERV,16708417,0.39,United States,5/19/2022
+453,Celsion Corporation,CLSN,16611168,2.34,United States,5/19/2022
+454,Diffusion Pharmaceuticals,DFFN,15921388,7.81,United States,5/19/2022
+455,Rockwell Medical,RMTI,15208711,1.78,United States,5/19/2022
+456,Aprea Therapeutics,APRE,14208583,0.65,United States,5/19/2022
+457,Stealth BioTherapeutics,MITO,14021126,0.23,Cayman Islands,5/19/2022
+458,Evofem Biosciences,EVFM,13984630,1.1,United States,5/19/2022
+459,Cingulate,CING,13797468,1.22,United States,5/19/2022
+460,Altamira Therapeutics,CYTO,13066241,0.86,Bermuda,5/19/2022
+461,Genocea Biosciences,GNCA,12914735,0.22,United States,5/19/2022
+462,Nabriva Therapeutics,NBRV,12640960,0.2,Ireland,5/19/2022
+463,Galmed Pharmaceuticals,GLMD,12549217,0.5,Israel,5/19/2022
+464,Evoke Pharma,EVOK,12035070,0.3,United States,5/19/2022
+465,Allena Pharmaceuticals,ALNA,11132014,0.12,United States,5/19/2022
+466,Zosano Pharma,ZSAN,10343768,2.11,United States,5/19/2022
+467,Hillstream BioPharma,HILS,10341604,0.91,United States,5/19/2022
+468,Bellerophon Therapeutics,BLPH,9927268,1.04,United States,5/19/2022
+469,Phio Pharmaceuticals,PHIO,9535138,0.7,United States,5/19/2022
+470,Advaxis,ADXS,9451907,0.06,United States,5/19/2022
+471,PainReform,PRFX,8432291,0.84,Israel,5/19/2022
+472,Mallinckrodt Pharmaceuticals,MNKKQ,8223941,0.1,United Kingdom,5/19/2022
+473,Acorda Therapeutics,ACOR,7368194,0.55,United States,5/19/2022
+474,Agile Therapeutics,AGRX,6313533,1.39,United States,5/19/2022
+475,JanOne,JAN,5909286,2.09,United States,5/19/2022
+476,Baudax Bio,BXRX,5142704,0.8,United States,5/19/2022
+477,Titan Pharmaceuticals,TTNP,4635169,0.39,United States,5/19/2022
+478,Intensity Therapeutics,INTS,0,0,United States,5/19/2022
